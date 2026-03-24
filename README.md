@@ -43,11 +43,11 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
  
 ## OUTPUT:
 ### Install and Verify Steghide Tool
-![image](https://github.com/user-attachments/assets/2654e9ee-be6b-4087-8f58-1071aef9b06f)
+<img width="786" height="398" alt="Screenshot 2026-03-24 110247" src="https://github.com/user-attachments/assets/c78e70e9-5d5b-4d08-ba98-b6a896097dc4" />
 
 
 ### Embed the Secret Message into the Image
-![image](https://github.com/user-attachments/assets/232c715c-fc9d-4d25-9cef-6d7bcba1d32b)
+<img width="640" height="247" alt="image" src="https://github.com/user-attachments/assets/224098af-3df0-4fc4-bcbd-69bc5031a30c" />
 
 
 ### Delete Original Secret File
